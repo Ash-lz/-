@@ -15,6 +15,11 @@ int main()
     cout << "aaaaa"<< a << "aaaaa"<< a << "aaaaa"<< a << "aaaaa"<< a << "aaaaa"<< a << endl;
     add(a) = 20;
     cout << a << endl;
+
+    cout << a << endl;  
+    cout << a << endl;  
+    return 0;
+
 }
 
 
