@@ -16,11 +16,7 @@ int main()
     add(a) = 20;
     cout << a << endl;
 
-    cout << a << endl;  
-    cout << a << endl;  
-    cout << a << endl;  
-    cout << a << endl;  
-    cout << a << endl;  
+
     return 0;
 
 }
